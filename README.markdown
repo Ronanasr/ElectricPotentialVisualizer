@@ -44,8 +44,7 @@ This Python script computes and visualizes the electric potential field generate
 
 ## Example Output
 The following is an example of the generated contour plot for two charges with magnitudes 20C and 30C, separated by 3 meters in a 10x10 meter domain:
-
-![Example Plot](electric_potential_plot.png) *(Note: You can add a screenshot of the plot by saving it and uploading it to the repository.)*
+ٖ![Electric Potential Plot](electric_potential_plot.png)
 
 ## Code Explanation
 - **Function**: `compute_electric_potential(L, s, k, q1, q2, x1, x2, y1, y2, N_p)`
